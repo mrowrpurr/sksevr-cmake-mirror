@@ -72,9 +72,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>version.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
-    <PostBuildEvent>
+    <!-- <PostBuildEvent>
       <Command>copy "$(TargetPath)" "$(SkyrimVRPath)\$(TargetFileName)" /Y</Command>
-    </PostBuildEvent>
+    </PostBuildEvent> -->
     <PostBuildEvent>
       <Message>Installing Steam Loader...</Message>
     </PostBuildEvent>
@@ -99,9 +99,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>version.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
-    <PostBuildEvent>
+    <!-- <PostBuildEvent>
       <Command>copy "$(TargetPath)" "$(SkyrimVRPath)\$(TargetFileName)" /Y</Command>
-    </PostBuildEvent>
+    </PostBuildEvent> -->
     <PostBuildEvent>
       <Message>Installing Steam Loader...</Message>
     </PostBuildEvent>
