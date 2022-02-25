@@ -1,0 +1,16 @@
+﻿  IBufferStream.cpp
+  IDataStream.cpp
+  IDebugLog.cpp
+  IDirectoryIterator.cpp
+  IErrors.cpp
+  IEvent.cpp
+  IFileStream.cpp
+  IInterlockedLong.cpp
+  IMutex.cpp
+  IPrefix.cpp
+  ISegmentStream.cpp
+  ISingleton.cpp
+  ITimer.cpp
+  ITypes.cpp
+  Generating Code...
+  common_vc14.vcxproj -> C:\Code\SKSEVR\sksevr\x64_v143\Debug\common_vc14.lib

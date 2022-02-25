@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Options.cpp
+  Generating Code...
+  skse64_loader.vcxproj -> C:\Code\SKSEVR\sksevr\x64\Debug\sksevr_loader.exe
+  Installing Loader...
+  Access is denied.
+          0 file(s) copied.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: The command "copy "C:\Code\SKSEVR\sksevr\x64\Debug\sksevr_loader.exe" "\sksevr_loader.exe" /Y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: :VCEnd" exited with code 1.

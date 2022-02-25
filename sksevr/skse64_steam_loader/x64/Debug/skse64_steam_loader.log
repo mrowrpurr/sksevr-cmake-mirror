@@ -1,0 +1,7 @@
+﻿  main.cpp
+  skse64_steam_loader.vcxproj -> C:\Code\SKSEVR\sksevr\x64\Debug\sksevr_steam_loader.dll
+  Installing Steam Loader...
+  Access is denied.
+          0 file(s) copied.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: The command "copy "C:\Code\SKSEVR\sksevr\x64\Debug\sksevr_steam_loader.dll" "\sksevr_steam_loader.dll" /Y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: :VCEnd" exited with code 1.
